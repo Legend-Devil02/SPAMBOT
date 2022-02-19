@@ -2,7 +2,7 @@
 This is SpamBot Of @LegendBoy_XD Group- https//t.me/LEGEND_K_USERBOT
 
 <p align="center">
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Legend-Devil02/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/LEGEND-AI/SPAMBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-AI/SPAMBOT?style=flat&logo=github" /> </a>
 <a href="https://github.com/LEGEND-AI/SPAMBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logo=github" /> </a>
 <a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-AI/SPAMBOT?color=success" /> </a>
